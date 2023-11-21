@@ -1,0 +1,13 @@
+Behavior Driven Development
+
+Given: an input of numbers from 1–100
+
+When:
+A number is a multiple of ‘3’ return “Fizz”
+A number is a of ‘5’ return “Buzz”
+A number is a of both ‘3’ and ‘5’ return “FizzBuzz”
+A number is not divisible by ‘3’ or ‘5’ return the number itself
+
+Then: print “Fizz”, “Buzz”, “FizzBuzz” or the number accordingly
+
+And:

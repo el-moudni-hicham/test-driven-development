@@ -52,6 +52,7 @@ The red, green, refactor approach helps developers compartmentalize their focus 
 
 ![image](https://github.com/el-moudni-hicham/test-driven-development/assets/85403056/84ec68ff-4ad1-48af-88ab-23b06a406f1b)
 
+![image](https://github.com/el-moudni-hicham/test-driven-development/assets/85403056/289bf7ba-144f-4d11-87ea-ef48e58b91cc)
 
 
 # ARRANGE ACT ASSERT Pattern

@@ -2,6 +2,11 @@
 
 ```All what you need about Test Driven Development```
 
+# Table of content
+- [Behavior Driven Development BDD](#behavior-driven-development-bdd)
+- [Test Driven Developement TDD](#test-driven-development-tdd)
+- [ARRANGE ACT ASSERT Pattern](#arrange-act-assert-pattern)
+
 # Behavior Driven Development BDD
 BDD is a development methodology that emphasizes meeting the business needs of the software.
 
@@ -49,7 +54,7 @@ The red, green, refactor approach helps developers compartmentalize their focus 
 
 
 
-# ARRANGE-ACT-ASSERT PATTERN
+# ARRANGE ACT ASSERT Pattern
 
 There is a standard way to structure a test. This is the AAA Pattern, or Arrange - Act - Assert: 
 

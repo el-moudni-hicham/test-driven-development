@@ -4,7 +4,7 @@
 
 # Table of content
 - [Behavior Driven Development BDD](#behavior-driven-development-bdd)
-- [Test Driven Developement TDD](#test-driven-development-tdd)
+- [Test Driven Development TDD](#test-driven-development-tdd)
 - [ARRANGE ACT ASSERT Pattern](#arrange-act-assert-pattern)
 
 # Behavior Driven Development BDD
@@ -25,7 +25,7 @@ For example:
 
 
 
-# Test Driven Developement TDD
+# Test Driven Development TDD
 
  is an approach to software development where you write tests first, then use those tests to drive the design and development of your software application
 
